@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1148cc93c0ef3824ce0bb64aaa3138a1",
+    "revision": "2a9f42e4d7f690b15eadc158c6f01795",
     "url": "/index.html"
   },
   {
-    "revision": "24733ceeaa144a3f41d0",
-    "url": "/static/css/main.bbb3af9b.chunk.css"
+    "revision": "7d4c80cda5239d793bc0",
+    "url": "/static/css/main.5eb90983.chunk.css"
   },
   {
-    "revision": "d3c919ff0475db905109",
-    "url": "/static/js/2.775b7938.chunk.js"
+    "revision": "339e1719c538ae9e26fa",
+    "url": "/static/js/2.f0b3ff4c.chunk.js"
   },
   {
     "revision": "1b9cc396521eecb2045c787139670fba",
-    "url": "/static/js/2.775b7938.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f0b3ff4c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24733ceeaa144a3f41d0",
-    "url": "/static/js/main.bc77e204.chunk.js"
+    "revision": "7d4c80cda5239d793bc0",
+    "url": "/static/js/main.4d931591.chunk.js"
   },
   {
     "revision": "04b81a475554c4f4afa6",
@@ -40,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/5.764ff046.jpg"
   },
   {
+    "revision": "00ce23caac2c875bcc6db8e4afe5c532",
+    "url": "/static/media/Simple-Line-Icons.00ce23ca.svg"
+  },
+  {
     "revision": "0bbfc705e37a927ce2ae72b749b3154d",
     "url": "/static/media/Simple-Line-Icons.0bbfc705.woff"
   },
@@ -54,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dacd16c9a3d2cb61b472a35979015bf3",
     "url": "/static/media/Simple-Line-Icons.dacd16c9.eot"
-  },
-  {
-    "revision": "de8ad55bfeaebbe67c5b9a362749de1a",
-    "url": "/static/media/Simple-Line-Icons.de8ad55b.svg"
   },
   {
     "revision": "037ebf694738a833c1c069958582c2a0",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
-    "revision": "acf3dcb7ff752b5296ca23ba2c7c2606",
-    "url": "/static/media/fontawesome-webfont.acf3dcb7.svg"
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -192,12 +192,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/themify.2c454669.eot"
   },
   {
-    "revision": "a1ecc3b826d01251edddf29c3e4e1e97",
-    "url": "/static/media/themify.a1ecc3b8.woff"
+    "revision": "9c8e96ecc7fa01e6ebcd196495ed2db5",
+    "url": "/static/media/themify.9c8e96ec.svg"
   },
   {
-    "revision": "cba68f986e60df8c74f4a53c3e39595c",
-    "url": "/static/media/themify.cba68f98.svg"
+    "revision": "a1ecc3b826d01251edddf29c3e4e1e97",
+    "url": "/static/media/themify.a1ecc3b8.woff"
   },
   {
     "revision": "e23a7dcaefbde4e74e263247aa42ecd7",
