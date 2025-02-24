@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7d5ba6f-d46a-4580-a4bf-d4cbf67d7d12" name="Changes" comment="commit build test">
+      <change afterPath="$PROJECT_DIR$/precache-manifest.8b162cdf339de712dbd95acfe36a7ec1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.d7be3014.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.d7be3014.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/2.762e9715.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/2.762e9715.chunk.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/2.762e9715.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.d16d83e6.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.d16d83e6.chunk.js.map" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "salcho94"
+  }
+}]]></component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\salcho\salcho_front" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="commit build">
+      <option name="closed" value="true" />
+      <created>1740376534590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740376534590</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit build test">
+      <option name="closed" value="true" />
+      <created>1740377278757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740377278757</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit build test">
+      <option name="closed" value="true" />
+      <created>1740377527852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740377527852</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit build test">
+      <option name="closed" value="true" />
+      <created>1740377932977</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740377932977</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit build" />
+    <MESSAGE value="commit build test" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit build test" />
+  </component>
+</project>
