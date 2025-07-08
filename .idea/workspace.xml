@@ -4,33 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7d5ba6f-d46a-4580-a4bf-d4cbf67d7d12" name="Changes" comment="commit build test">
-      <change afterPath="$PROJECT_DIR$/precache-manifest.8b162cdf339de712dbd95acfe36a7ec1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/main.d7be3014.chunk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/main.d7be3014.chunk.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/2.762e9715.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/2.762e9715.chunk.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/2.762e9715.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/main.d16d83e6.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/main.d16d83e6.chunk.js.map" afterDir="false" />
-    </list>
+    <list default="true" id="e7d5ba6f-d46a-4580-a4bf-d4cbf67d7d12" name="Changes" comment="commit build test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "salcho94"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;salcho94&quot;
   }
+}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
 }]]></component>
+  <component name="ProjectId" id="2zb2XTBmOAdPqaomSXHQtU1AJMJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
@@ -39,6 +45,7 @@
       <recent name="D:\salcho\salcho_front" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="commit build">
       <option name="closed" value="true" />
@@ -72,11 +79,34 @@
       <option name="project" value="LOCAL" />
       <updated>1740377932977</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit build test">
+      <option name="closed" value="true" />
+      <created>1751985776748</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751985776748</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit build" />
+    <MESSAGE value="new" />
     <MESSAGE value="commit build test" />
     <option name="LAST_COMMIT_MESSAGE" value="commit build test" />
   </component>
